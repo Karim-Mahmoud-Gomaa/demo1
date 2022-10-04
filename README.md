@@ -12,7 +12,7 @@
 <ul>
     <li>Run <code>composer install && composer update</code> </li>
     <li>copy <code>.env.example</code> to <code>.env.example</code> file</li>
-    <li>create database & edit Db name To <code>DB_DATABASE</code> .env file</li>
+    <li>create database & edit Db name To <code>DB_DATABASE</code> in .env file</li>
     <li>Run <code>php artisan system:install</code></li>
 </ul>
 
